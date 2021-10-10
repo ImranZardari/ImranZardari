@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImranZardari
-- 👀 I’m interested in learning flutter
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in learning Android Development Using Java
+- 🌱 I’m currently learning more deep concepts of Android Architecture
 - 📫 You can reach me via email :p
 
 <!---
